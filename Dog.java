@@ -55,7 +55,6 @@ class Dog{
         }
 
         //q6
-        
         HashSet<Dog> dogSet = new HashSet<>();
         dogSet.add(new Dog("Fido"));
         dogSet.add(new Dog("Spot"));
@@ -84,7 +83,5 @@ class Dog{
                 System.out.println(dogSet);
             }
         }
-
     }
-
 }

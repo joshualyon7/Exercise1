@@ -1,6 +1,6 @@
 //Names: Michael DeSimone, Spencer Hanggodo, Josh Lyon
-
 import java.util.*;
+
 //q7
 public class C {
     public static void main(String[] args){ //takes in arguments from the command line
